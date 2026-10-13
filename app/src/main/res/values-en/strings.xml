@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="app_subtitle">Download WhatsApp Statuses and Stories</string>
+
+    <!-- Tabs -->
+    <string name="tab_stories">Stories</string>
+    <string name="tab_images">Images</string>
+    <string name="tab_videos">Videos</string>
+    <string name="tab_saved">Downloads</string>
+    <string name="tab_direct_chat">Direct Chat</string>
+    <string name="tab_guide">Guide</string>
+
+    <!-- Common Actions -->
+    <string name="save">Save to Gallery</string>
+    <string name="saved_successfully">Saved to Gallery successfully</string>
+    <string name="save_all">Save All</string>
+    <string name="share">Share</string>
+    <string name="repost">Repost on WhatsApp</string>
+    <string name="delete">Delete</string>
+    <string name="refresh">Refresh</string>
+    <string name="select_all">Select All</string>
+    <string name="deselect_all">Deselect All</string>
+    <string name="open_whatsapp">Open WhatsApp</string>
+    <string name="open_wa_business">WA Business</string>
+    <string name="message_contact">Message Contact</string>
+
+    <!-- Filters & Sources -->
+    <string name="source_whatsapp">WhatsApp</string>
+    <string name="source_wa_business">WA Business</string>
+    <string name="source_all">All Stories</string>
+
+    <!-- Empty States -->
+    <string name="no_statuses_title">No statuses found</string>
+    <string name="no_statuses_desc">View your friends\' statuses in WhatsApp first, then return here.</string>
+    <string name="no_saved_title">No saved items yet</string>
+    <string name="no_saved_desc">Save statuses to keep them forever in your gallery even after 24 hours.</string>
+
+    <!-- Direct Chat -->
+    <string name="direct_chat_title">Message without saving number</string>
+    <string name="direct_chat_desc">Enter a phone number with country code to start WhatsApp chat directly.</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="phone_placeholder">e.g. 9123456789</string>
+    <string name="message_label">Message (optional)</string>
+    <string name="message_placeholder">Hello, your message...</string>
+    <string name="send_chat">Start Chat on WhatsApp</string>
+    <string name="country_code">Country Code</string>
+
+    <!-- Guide -->
+    <string name="guide_title">Step-by-step Status Download Guide</string>
+    <string name="step_1_title">1. View in WhatsApp</string>
+    <string name="step_1_desc">Open WhatsApp and view the status or story completely.</string>
+    <string name="step_2_title">2. Open Status Saver</string>
+    <string name="step_2_desc">Open this app; all viewed photos and videos will appear automatically.</string>
+    <string name="step_3_title">3. Download and Keep</string>
+    <string name="step_3_desc">Tap Download or open full-screen preview to save permanently to your gallery.</string>
+    <string name="auto_clean_note">Note: WhatsApp statuses disappear after 24 hours, but saved files remain in your gallery forever.</string>
+</resources>

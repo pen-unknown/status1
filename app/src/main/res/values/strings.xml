@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">ذخیره وضعیت</string>
+    <string name="app_subtitle">دانلود استوری و وضعیت واتساپ</string>
+
+    <!-- Tabs -->
+    <string name="tab_stories">استوری‌ها</string>
+    <string name="tab_images">عکس‌ها</string>
+    <string name="tab_videos">ویدیوها</string>
+    <string name="tab_saved">ذخیره‌شده‌ها</string>
+    <string name="tab_direct_chat">پیام مستقیم</string>
+    <string name="tab_guide">راهنما</string>
+    <string name="message_contact">ارسال پیام به مخاطب</string>
+
+    <!-- Common Actions -->
+    <string name="save">ذخیره در گالری</string>
+    <string name="saved_successfully">با موفقیت در گالری ذخیره شد</string>
+    <string name="save_all">دانلود همه</string>
+    <string name="share">اشتراک‌گذاری</string>
+    <string name="repost">ارسال در واتساپ</string>
+    <string name="delete">حذف</string>
+    <string name="refresh">تازه‌سازی</string>
+    <string name="select_all">انتخاب همه</string>
+    <string name="deselect_all">لغو انتخاب</string>
+    <string name="open_whatsapp">باز کردن واتساپ</string>
+    <string name="open_wa_business">واتساپ بیزینس</string>
+
+    <!-- Filters & Sources -->
+    <string name="source_whatsapp">واتساپ معمولی</string>
+    <string name="source_wa_business">واتساپ تجاری (بیزینس)</string>
+    <string name="source_all">همه استوری‌ها</string>
+
+    <!-- Empty States -->
+    <string name="no_statuses_title">هیچ وضعیتی یافت نشد</string>
+    <string name="no_statuses_desc">برای مشاهده استوری‌ها، ابتدا آن‌ها را در برنامه واتساپ تماشا کنید، سپس به این برنامه بازگردید.</string>
+    <string name="no_saved_title">هنوز موردی ذخیره نشده</string>
+    <string name="no_saved_desc">استوری‌های دلخواه خود را ذخیره کنید تا در هر زمان حتی بعد از ۲۴ ساعت در دسترس باشند.</string>
+
+    <!-- Direct Chat -->
+    <string name="direct_chat_title">ارسال پیام بدون ذخیره شماره</string>
+    <string name="direct_chat_desc">شماره موبایل را با کد کشور وارد کنید و بدون نیاز به ذخیره در مخاطبین، مستقیماً وارد چت واتساپ شوید.</string>
+    <string name="phone_number_label">شماره موبایل</string>
+    <string name="phone_placeholder">مثلاً 9123456789</string>
+    <string name="message_label">متن پیام (اختیاری)</string>
+    <string name="message_placeholder">سلام، پیام شما...</string>
+    <string name="send_chat">شروع گفت‌وگو در واتساپ</string>
+    <string name="country_code">کد کشور</string>
+
+    <!-- Guide -->
+    <string name="guide_title">راهنمای گام‌به‌گام دانلود استوری</string>
+    <string name="step_1_title">۱. مشاهده در واتساپ</string>
+    <string name="step_1_desc">وارد واتساپ شوید و استوری یا وضعیت دوستان خود را کامل تماشا کنید.</string>
+    <string name="step_2_title">۲. باز کردن برنامه</string>
+    <string name="step_2_desc">برنامه Status Saver را باز کنید؛ تمام عکس‌ها و ویدیوهای دیده‌شده خودکار شناسایی می‌شوند.</string>
+    <string name="step_3_title">۳. دانلود و ذخیره دائم</string>
+    <string name="step_3_desc">روی دکمه دانلود بزنید یا پیش‌نمایش تمام‌صفحه را باز کرده و با یک لمس آن را در گالری ذخیره نمایید.</string>
+    <string name="auto_clean_note">نکته: استوری‌های واتساپ بعد از ۲۴ ساعت ناپدید می‌شوند، اما فایل‌های دانلود شده برای همیشه در گالری شما باقی می‌مانند.</string>
+
+    <!-- Storage Access -->
+    <string name="grant_folder_access">انتخاب پوشه استوری‌های واتساپ</string>
+    <string name="folder_access_desc">در نسخه‌های جدید اندروید (Android 11 به بالا) برای دسترسی به پوشه .Statuses واتساپ، دسترسی به پوشه رسانه مورد نیاز است.</string>
+</resources>
